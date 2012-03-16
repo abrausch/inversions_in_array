@@ -1,4 +1,4 @@
-# InversionOfArray
+# InversionsInArray
 
 TODO: Write a gem description
 

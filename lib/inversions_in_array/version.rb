@@ -1,0 +1,3 @@
+module InversionsInArray
+  VERSION = "0.0.1"
+end
