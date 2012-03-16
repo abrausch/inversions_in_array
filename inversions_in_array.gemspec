@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["abrausch@web.de"]
   gem.description   = %q{Calculate the inversions in an array}
   gem.summary       = %q{Calculate the inversions in an array}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/abrausch/inversions_in_array"
 
   gem.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
   gem.files         = `git ls-files`.split("\n")
