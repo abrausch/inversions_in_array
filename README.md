@@ -1,12 +1,16 @@
 # InversionsInArray
 
-TODO: Write a gem description
+Count all inversions in an array., For example if you have an array with the following value:
+
+	[1,3,5,2,4,6]
+
+You have three inversion [3,2], [5,2] and [5,4]
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'inversion_of_array'
+    gem 'inversions_in_array'
 
 And then execute:
 
@@ -14,7 +18,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install inversion_of_array
+    $ gem install inversions_in_array
 
 ## Usage
 
