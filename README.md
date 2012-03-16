@@ -1,6 +1,6 @@
 # InversionsInArray
 
-Count all inversions in an array., For example if you have an array with the following value:
+Count all inversions in an array. For example if you have an array with the following value:
 
 	[1,3,5,2,4,6]
 
